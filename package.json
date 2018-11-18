@@ -3,12 +3,40 @@
   "version": "1.0.0",
   "description": "Recibe informacion del sistema",
   "main": "index.js",
-  "author": "josexs",
+  "author": {
+    "name": "JoseXS",
+    "email": "jmgogt@gmail.com"
+  },
   "license": "ISC",
   "dependencies": {
     "os": "^0.1.1",
     "os-utils": "0.0.14",
     "moment": "^2.19.3"
   },
-  "keywords": ["beta"]
+  "keywords": [
+    "os",
+    "operating system",
+    "server",
+    "memory",
+    "cpu",
+    "monitor",
+    "stats",
+    "hd",
+    "sistema operativo",
+    "servidor",
+    "estadisticas",
+    "disco duro",
+    "carga cpu",
+    "uso memoria"
+  ],
+  "homepage": "https://github.com/JoseXS/os-information#readme",
+  "bugs": {
+    "url": "https://github.com/JoseXS/os-information/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseXS/os-information.git"
+  },
+  "url": "https://www.josexs.com"
+
 }
